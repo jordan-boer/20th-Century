@@ -9,7 +9,6 @@
 7,Germany,United States,82
 8,United Kingdom,United States,27
 9,Germany,United Kingdom,73
-10,Germany,Germany,119
 11,Czech Republic,Germany,10
 12,Czech Republic,Russia,5
 13,Germany,Italy,22
@@ -32,7 +31,6 @@
 30,Denmark,Norway,6
 31,Denmark,Sweden,6
 32,Germany,Sweden,6
-33,France,France,12
 34,France,Italy,12
 35,France,Greece,5
 36,Germany,Greece,6
@@ -47,14 +45,11 @@
 45,Germany,Iran,5
 46,Germany,Japan,44
 47,Japan,United States,112
-48,United States,United States,69
 49,Russia,United States,71
 50,Germany,Morocco,6
 51,Italy,Morocco,6
 52,Germany,Netherlands,11
 53,"China, People's Republic of",Japan,59
-54,"China, People's Republic of","China, People's Republic of",6
-55,Japan,Japan,67
 56,Italy,Japan,6
 57,Japan,Thailand,6
 58,Thailand,United Kingdom,6
@@ -105,7 +100,6 @@
 103,Cuba,"Korea, North",6
 104,Cuba,Vietnam,6
 105,Russia,Vietnam,6
-106,Russia,Russia,12
 107,"China, People's Republic of",Russia,5
 108,"Korea, North",United States,6
 109,"Korea, South",United States,12
